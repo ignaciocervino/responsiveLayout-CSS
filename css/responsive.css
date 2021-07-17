@@ -1,0 +1,11 @@
+@media (max-width:1250px){/*Del pixel 0 al 1250 aplico estos estilos*/
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    .card{
+        width: 17%;
+        margin: 1.45%;
+    }
+}
